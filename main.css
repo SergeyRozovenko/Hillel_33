@@ -2,3 +2,7 @@
   box-sizing: border-box;
   width: 100%;
 }
+
+.img {
+  margin: 10px;
+}
